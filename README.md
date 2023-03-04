@@ -8,4 +8,4 @@
 
 [![Vladimir's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladimir1284)](https://github.com/anuraghazra/github-readme-stats)
 
-![WakaTime](https://wakatime.com/share/@vladimir1284/d2e2f31a-2020-49ca-be4a-6765f6951b08.svg "image Title")
+<img src="https://wakatime.com/share/@vladimir1284/d2e2f31a-2020-49ca-be4a-6765f6951b08.svg"  alt="WakaTime" width="50%" height="50%">
